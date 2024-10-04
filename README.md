@@ -1,2 +1,2 @@
 # sample
-sample git
+sample git hub
